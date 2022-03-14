@@ -1,16 +1,36 @@
-### Hi there 👋
+### Olá 👋 meu nome é Vitor Matos, seja bem vindo ao meu Github!
 
-<!--
-**Vit0rMat0s/vit0rmat0s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <a href="https://github.com/vit0rmat0s">
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=vit0rmat0s&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vit0rmat0s&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+   <img align="center" alt="vit0rmat0s-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="vit0rmat0s-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="vit0rmat0s-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="vit0rmat0s-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" alt="vit0rmat0s-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+ <img align="right" alt="vit0rmat0s-pic" height="150" style="border-radius:50px;"
+       src="https://share-cdn.picrew.me/shareImg/org/202203/94097_RcFWCUjL.png?width=676&height=676">
+</div>
+  
+  ##
+  
+  <div> 
+  
+  <a href="https://instagram.com/vit0rmat0s" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:vitor.maatos@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/vit0rmat0s" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ 
+ 
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+-😄 Estudando muito para um dia ser um excelente Dev...
+-🎓 No momento estou estudando Css e Javascript...
+-🧲 Estou à procura de uma vaga para estágio...
+
+
+![Snake animation](https://github.com/vit0rmat0s/vit0rmat0s/blob/output/github-contribution-grid-snake.svg)
+ 
