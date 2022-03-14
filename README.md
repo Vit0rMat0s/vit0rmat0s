@@ -27,9 +27,10 @@
  
 </div>
 
--😄 Estudando muito para um dia ser um excelente Dev...
--🎓 No momento estou estudando Css e Javascript...
--🧲 Estou à procura de uma vaga para estágio...
+  <p>-😄 Estudando muito para um dia ser um excelente Dev...</p>
+  
+  <p>-🎓 No momento estou estudando Css e Javascript...</p>
+  <p>-🧲 Estou à procura de uma vaga para estágio...</p>
 
 
 ![Snake animation](https://github.com/vit0rmat0s/vit0rmat0s/blob/output/github-contribution-grid-snake.svg)
