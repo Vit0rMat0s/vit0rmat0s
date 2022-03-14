@@ -1,4 +1,4 @@
-### <h1 alight text="center">Olá 👋 meu nome é Vitor Matos</h1>
+### <h1 align="center">Olá 👋 meu nome é Vitor Matos</h1>
 
 <div align="center" dir="auto">
         <a href="https://github.com/vit0rmat0s">
