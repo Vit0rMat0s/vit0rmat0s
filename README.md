@@ -1,4 +1,4 @@
-### <h1>Olá 👋 meu nome é Vitor Matos, seja bem vindo ao meu Github!</h1>
+### <h1>Olá 👋 meu nome é Vitor Matos</h1>
 
 <div align="center">
   <a href="https://github.com/vit0rmat0s">
