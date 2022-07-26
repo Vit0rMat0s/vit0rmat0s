@@ -1,9 +1,10 @@
 ### <h1 align="center">Olá 👋 meu nome é Vitor Matos, sou apaixonado por tecnologia</h1>
 
 <div>
-        <a href="https://github.com/vit0rmat0s">
-                <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vit0rmat0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+   <a href="https://github.com/vit0rmat0s">
+   <img height="180em" src="https://githubreadmestats.vercel.app/apiusername=vit0rmat0s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vit0rmat0s&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
 
 <div style="display: inline_block"><br>
    <img align="center" alt="vit0rmat0s-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
