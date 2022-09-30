@@ -19,7 +19,7 @@
 </div>
 
   <p>-😄 Estudando muito para um dia ser um excelente Dev...</p>
-  <p>-🎓 No momento estou estudando C#...</p>
+  <p>-🎓 No momento estou estudando C#</p>
   <p>-🎯 Estou à procura de uma vaga para estágio...</p>
 
 
