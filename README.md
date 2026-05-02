@@ -18,10 +18,6 @@
  
 </div>
 
-  <p>-😄 Estudando muito para um dia ser um excelente Dev...</p>
-  <p>-🎓 No momento estou estudando C#</p>
-  <p>-🎯 Estou à procura de uma vaga para estágio...</p>
-
 
 ![Snake animation](https://github.com/vit0rmat0s/vit0rmat0s/blob/output/github-contribution-grid-snake.svg)
  
